@@ -1,0 +1,17 @@
+{
+  "name": "motor-driver-tb6612",
+  "version": "0.0.1",
+  "description": "A motor driver library for the TB6612FNG breakout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motor",
+    "driver",
+    "tessel",
+    "javascript"
+  ],
+  "author": "Jon McKay <jon@technical.io>",
+  "license": "MIT"
+}
