@@ -30,7 +30,7 @@ AIN2 <-> GPIO Port G1
 
 AIN1 <-> GPIO Port G2
 
-STBY <-> GPIO Port G4
+STBY <-> GPIO Port G3
 
 BIN1 <-> ANY OTHER GPIO (I use Port D, GPIO 1 in my examples) 
 
